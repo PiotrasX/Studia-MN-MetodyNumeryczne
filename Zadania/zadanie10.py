@@ -1,6 +1,6 @@
 from sympy import symbols, expand
 
-# Interpolacja wielomianem Lagrange'a lub Newtona.
+# Interpolacja wielomianem Lagrange'a.
 # Zestaw węzłów P1(1,5), P2(2,7), P3(3,6).
 
 # Wzór interpolacyjny Lagrange'a:
