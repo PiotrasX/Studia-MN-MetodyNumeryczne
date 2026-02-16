@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Metody
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Zadania realizowane na zajęciach dydaktycznych. Realizowany materiał obejmuje implementacje algorytmów numerycznych w języku Python, takich jak rozwiązywanie równań nieliniowych, całkowanie numeryczne, interpolacja oraz metody eliminacji i aproksymacji.  
+- `Zadania` – Zadania realizowane na zajęciach dydaktycznych. Realizowany materiał obejmuje implementacje algorytmów numerycznych w języku Python, takich jak rozwiązywanie równań nieliniowych, całkowanie numeryczne, interpolacja oraz metody eliminacji i aproksymacji. Zadania koncentrują się na analizie dokładności metod, zbieżności algorytmów oraz ocenie błędów obliczeniowych.  
 
 ---
 
