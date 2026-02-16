@@ -1,6 +1,6 @@
 # 📘 Studia - MN - Metody Numeryczne
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Metody Numeryczne**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów informatycznych.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Metody Numeryczne**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -14,8 +14,8 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Metody
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` Python.  
-- `IDE:` PyCharm Community Edition.  
+- `Technologie:` Python.  
+- `Środowiska programistyczne (IDE):` PyCharm Community Edition.  
 
 ---
 
