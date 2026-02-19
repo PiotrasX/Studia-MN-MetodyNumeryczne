@@ -1,4 +1,4 @@
-# 📘 Studia - MN - Metody Numeryczne
+# 📘 Studia – MN - Metody Numeryczne
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Metody Numeryczne**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
